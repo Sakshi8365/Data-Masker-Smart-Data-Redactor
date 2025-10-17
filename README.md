@@ -151,12 +151,6 @@ ruff check .
 
 ---
 
-## Screenshots
-
-Add screenshots or terminal recordings here to showcase scan and mask commands on real data.
-
----
-
 ## Acknowledgements
 
 Built with Python, pandas, click, PyYAML, and a lot of regex.
