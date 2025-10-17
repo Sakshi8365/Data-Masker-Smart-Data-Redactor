@@ -1,0 +1,4 @@
+name,email,phone,ssn,credit_card,ipv4,address
+Alice,alice@example.com,202-555-0133,123-45-6789,4111 1111 1111 1111,192.168.1.10,123 Main St
+Bob,bob.smith@domain.org,+1 415 555 2671,987-65-4321,5500-0000-0000-0004,10.0.0.1,456 Oak Ave
+Charlie,,,(empty),,8.8.8.8,789 Pine Rd
